@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: brown;
 }
 
 .App-logo {
@@ -21,13 +22,17 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+ background-color: #f5deb3;
 }
 
 .App-link {
   color: #61dafb;
 }
+html {
+  scroll-behavior: smooth;
+}
 
+*{background-color: brown;}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
