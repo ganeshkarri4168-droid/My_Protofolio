@@ -20,7 +20,7 @@ const Hero = () => {
     >
       <div className="hero-content" style={{ maxWidth: "700px" }}>
         <h1 style={{ fontSize: "3rem", marginBottom: "20px" }}>
-          Ganesh Karri: MERN Stack Developer
+          GANESH KARRI: MERN STACK DEVELOPER
         </h1>
         <p style={{ fontSize: "1.2rem", lineHeight: "1.8" }}>
           Experienced in MongoDB, Express, React, and Node.js, I build dynamic
